@@ -1,0 +1,93 @@
+[
+  {
+    "role": "learning_recommended",
+    "filename": "ksi-home.jpg",
+    "width": 2560,
+    "height": 1708,
+    "source_page_url": "https://ksi-montenegro.com/",
+    "image_url": "https://ksi-montenegro.com/wp-content/uploads/2025/05/OAN7541-retouched-1-scaled.jpg",
+    "description": "Two actual KSI Montenegro pupils collaborating in the science room with microscopes. Used as official school homepage background.",
+    "crop_suggestion": "Use a 4:5 or 3:2 crop; keep the two pupils and microscope. Start object-position: 43% 55%.",
+    "reuse_info": "Published on official school site, whose footer says all rights reserved. EXIF artist: Zoran Radonjic. EXIF copyright and description: www.zoan.photography. No open reuse licence found; school/photographer rights apply.",
+    "local_path": "/workspace/scratch/2709d2ff043e/asset-research/ksi-home.jpg"
+  },
+  {
+    "role": "school_community_recommended",
+    "filename": "dp.jpg",
+    "width": 3061,
+    "height": 2042,
+    "source_page_url": "https://tour.ksi-montenegro.com/",
+    "image_url": "https://tour.ksi-montenegro.com/assets/dp.jpg",
+    "description": "Two actual KSI Montenegro pupils in school uniform speaking beside the blue school lockers, holding schoolwork. Official alt text identifies IB Diploma Programme at KSI Montenegro.",
+    "crop_suggestion": "Use 3:2 or 4:5 crop. Start object-position: 43% 50%, keeping smiling left pupil and the second pupil.",
+    "reuse_info": "Published on official school tour landing page. Footer says KSI Montenegro 2026 all rights reserved. No open reuse licence or photographer credit found in the downloaded image.",
+    "local_path": "/workspace/scratch/2709d2ff043e/asset-research/dp.jpg"
+  },
+  {
+    "role": "hero_selected",
+    "filename": "porto-marina.jpg",
+    "width": 2048,
+    "height": 1365,
+    "source_page_url": "https://portomontenegro.com/marina/",
+    "image_url": "https://portomontenegro.com/wp-content/uploads/2026/08/desktop.jpg",
+    "description": "Real aerial overview of Porto Montenegro marina, Tivat coastline and mountains. More location-specific than the atmospheric hero.",
+    "crop_suggestion": "Cover; start object-position 50% 55%. Water in lower left can carry text.",
+    "reuse_info": "Official Porto Montenegro site. No open reuse licence located; site copyright applies.",
+    "local_path": "/workspace/scratch/2709d2ff043e/asset-research/porto-marina.jpg"
+  },
+  {
+    "role": "learning_alternative",
+    "filename": "campus-community.jpg",
+    "width": 3062,
+    "height": 2041,
+    "source_page_url": "https://tour.ksi-montenegro.com/",
+    "image_url": "https://tour.ksi-montenegro.com/assets/campus-community.jpg",
+    "description": "Actual school pupils at desks reading and using laptops with a teacher in the background.",
+    "reuse_info": "Official school tour landing page; all rights reserved footer. No open reuse licence found.",
+    "local_path": "/workspace/scratch/2709d2ff043e/asset-research/campus-community.jpg"
+  },
+  {
+    "role": "learning_alternative",
+    "filename": "myp.jpg",
+    "width": 3061,
+    "height": 2042,
+    "source_page_url": "https://tour.ksi-montenegro.com/",
+    "image_url": "https://tour.ksi-montenegro.com/assets/myp.jpg",
+    "description": "Actual KSI Montenegro pupils collaborating around a desk in a classroom.",
+    "reuse_info": "Official school tour landing page; all rights reserved footer. No open reuse licence found.",
+    "local_path": "/workspace/scratch/2709d2ff043e/asset-research/myp.jpg"
+  },
+  {
+    "role": "official_logo",
+    "filename": "ksi-logo.png",
+    "width": 378,
+    "height": 257,
+    "source_page_url": "https://ksi-montenegro.com/",
+    "image_url": "https://ksi-montenegro.com/wp-content/uploads/2022/12/ksi-logo@2x.png",
+    "description": "Official white Knightsbridge Schools International shield and wordmark on transparent background. This is the parent-brand lockup used in the Montenegro site header, not a Montenegro-specific lockup.",
+    "reuse_info": "Official school branding asset. Trademark/brand ownership remains with KSI; no open licence found.",
+    "local_path": "/workspace/scratch/2709d2ff043e/asset-research/ksi-logo.png"
+  },
+  {
+    "role": "early_years_selected",
+    "filename": "pyp.jpg",
+    "width": 2760,
+    "height": 1840,
+    "source_page_url": "https://tour.ksi-montenegro.com/",
+    "image_url": "https://tour.ksi-montenegro.com/assets/pyp.jpg",
+    "description": "School-owned photograph published on the official KSI Montenegro tour page.",
+    "reuse_info": "Official school site; school and photographer rights apply.",
+    "local_path": "/workspace/scratch/2709d2ff043e/asset-research/pyp.jpg"
+  },
+  {
+    "role": "graduation_selected",
+    "filename": "hero-graduation.jpg",
+    "width": 6000,
+    "height": 4002,
+    "source_page_url": "https://tour.ksi-montenegro.com/",
+    "image_url": "https://tour.ksi-montenegro.com/assets/hero-graduation.jpg",
+    "description": "School-owned photograph published on the official KSI Montenegro tour page.",
+    "reuse_info": "Official school site; school and photographer rights apply.",
+    "local_path": "/workspace/scratch/2709d2ff043e/asset-research/hero-graduation.jpg"
+  }
+]

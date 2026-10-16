@@ -1,0 +1,9 @@
+{
+  "name": "ksi-the-place-v2-vercel",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Portable Vercel export of KSI Montenegro — The Place V2",
+  "scripts": { "build": "node scripts/build.mjs" },
+  "engines": { "node": "22.x" }
+}
